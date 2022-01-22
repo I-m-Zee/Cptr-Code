@@ -1,0 +1,16 @@
+.closed{
+	display:none;
+	background-color:#00CCEE;
+}
+.open{
+	display:block;
+	background-color:coral;
+}
+.id{
+	background-color:#00CCEE;
+}
+button{
+	width =150px;
+	background-color: #e5eb34;
+	font-size:15px;
+}
